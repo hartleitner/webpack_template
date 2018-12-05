@@ -1,3 +1,14 @@
+@import "./../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 .test {
-    color:red;
+  color: red;
+  background: blue;
+}
+
+body {
+  background: blue;
+}
+
+.test2 {
+  background: green;
+  color: red;
 }
